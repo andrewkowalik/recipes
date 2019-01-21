@@ -1,19 +1,19 @@
-#Recipe Name
+# Recipe Name
 
-##Origin Link
+## Origin Link
 
-##Info
+## Info
 
-##Tags
+## Tags
 
-##Ingredients
+## Ingredients
 
 - Ingredient 1
 - Ingredient 2
 - Ingredient 3
 - Ingredient 4
 
-##Steps
+## Steps
 
 1. Step 1
 2. Step 2

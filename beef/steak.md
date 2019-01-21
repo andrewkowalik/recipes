@@ -1,22 +1,22 @@
-#Sous Vide Steak
+# Sous Vide Steak
 
-##Origin Link
+## Origin Link
 [Serious Eats](https://www.seriouseats.com/2015/06/food-lab-complete-guide-to-sous-vide-steak.html)
 
-##Info
+## Info
 N/A
 
-##Tags
+## Tags
 Steak
 
-##Ingredients
+## Ingredients
 
 - 2" Thick Ribeye
 - Rosemary
 - Salt
 - Fresh Ground Pepper
 
-##Steps
+## Steps
 
 1. Set Sous Vide to 130 degrees farenheit 
 2. Season steak with salt and pepper.
